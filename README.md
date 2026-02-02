@@ -88,21 +88,6 @@ I believe in continuous improvement and staying current with industry trends. My
 - Performance optimization and caching strategies
 - Test-driven development and automated testing frameworks
 
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah3566&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah3566&layout=compact&langs_count=8&theme=default&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah3566&theme=default&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## Professional Approach
 
 Committed to delivering high-quality solutions that balance technical excellence with business objectives. My development philosophy centers on:
