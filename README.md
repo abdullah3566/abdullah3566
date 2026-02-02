@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Full-Stack Developer with a passion for building scalable web applications and creating elegant user experiences. With expertise spanning both frontend and backend development, I specialize in turning complex problems into simple, intuitive solutions.
+Full-Stack Developer with a passion for building scalable web applications and creating elegant user experiences. With expertise spanning both frontend and backend development, I specialize in turning complex problems into simple, intuitive solutions.
 
 Currently working at **Aurion Tech Global**, I focus on architecting enterprise-grade applications while mentoring junior developers. My background combines technical proficiency with creative design skills, enabling me to bridge the gap between functionality and aesthetics.
 
