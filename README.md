@@ -105,7 +105,7 @@ I believe in continuous improvement and staying current with industry trends. My
 
 ## Professional Approach
 
-I'm committed to delivering high-quality solutions that balance technical excellence with business objectives. My development philosophy centers on:
+Committed to delivering high-quality solutions that balance technical excellence with business objectives. My development philosophy centers on:
 
 - Writing maintainable, well-documented code that scales
 - Prioritizing user experience and accessibility in every design decision
@@ -116,7 +116,7 @@ I'm committed to delivering high-quality solutions that balance technical excell
 
 ## Let's Connect
 
-I'm always interested in discussing new opportunities, collaborations, or innovative projects. Feel free to reach out:
+Always interested in discussing new opportunities, collaborations, or innovative projects. Feel free to reach out:
 
 - **LinkedIn**: [Hassan Abdullah](https://www.linkedin.com/in/hassan-abdullah-8177573a9/)
 - **Email**: hassannabdullaho@gmail.com
@@ -136,6 +136,6 @@ I'm always interested in discussing new opportunities, collaborations, or innova
 
 **Made with professionalism and attention to detail**
 
-*Last updated: January 2025*
+*Last updated: January 2026*
 
 </div>
