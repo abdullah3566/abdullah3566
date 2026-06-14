@@ -18,18 +18,18 @@
 
 <br/>
 
-## 👋 About Me
+##  About Me
 
-I'm a **Full-Stack Web Developer** based in Lahore, Pakistan, with a BS in Computer Science from the University of the Punjab, Gujranwala. I build backend modules, REST APIs, and database-driven features — and I've shipped code to **live production platforms** as part of professional teams.
+I'm a **Full-Stack Web Developer** based in Lahore, Pakistan, with a BS in Computer Science from the University of the Punjab. I build backend modules, REST APIs, and database-driven features — and I've shipped code to **live production platforms** as part of professional teams.
 
-- 🔧 Currently working with **Laravel, PHP, Python/Django, React.js, and MySQL/PostgreSQL**
-- 🌱 Actively expanding into **TypeScript, Node.js, and modern full-stack workflows**
-- 💼 Open to **junior/full-stack developer roles and internships**
-- ⚡ Strong fundamentals in **clean code, Git workflows, and API design**
+-  Currently working with **Laravel, PHP, Python/Django, React.js, and MySQL/PostgreSQL**
+-  Actively expanding into **TypeScript, Node.js, and modern full-stack workflows**
+-  Open to **junior/full-stack developer roles and internships**
+-  Strong fundamentals in **clean code, Git workflows, and API design**
 
 <br/>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@ I'm a **Full-Stack Web Developer** based in Lahore, Pakistan, with a BS in Compu
 
 <br/>
 
-## 💼 Experience
+##  Experience
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ I'm a **Full-Stack Web Developer** based in Lahore, Pakistan, with a BS in Compu
 
 <br/>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -114,7 +114,7 @@ Web platform with structured practice modules for IELTS preparation.
 
 <br/>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -127,9 +127,9 @@ Web platform with structured practice modules for IELTS preparation.
 
 <br/>
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
-- **BS Computer Science** — University of the Punjab, Gujranwala (2026)
+- **BS Computer Science** — University of the Punjab (2026)
 - **C++ for C Programmers** — University of California, Santa Cruz (Coursera)
 - **Leadership Skills** — IIM Ahmedabad (Coursera)
 
