@@ -1,126 +1,140 @@
-# Hassan Abdullah
+<div align="center">
 
-**Full-Stack Developer & Creative Designer** | Pakistan 🇵🇰
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E5F,100:3A8DBF&height=180&section=header&text=Hassan%20Abdullah&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hassan-abdullah-8177573a9/)
-[![Email](https://img.shields.io/badge/Email-hassannabdullaho@gmail.com-D14836?style=flat&logo=gmail)](mailto:hassannabdullaho@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=abdullah3566&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/abdullah3566)
+<a href="https://www.linkedin.com/in/hassan-abdullah-8177573a9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hassannabdullaho@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/abdullah3566">
+  <img src="https://img.shields.io/badge/Lahore%2C_Pakistan-2E2E2E?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=abdullah3566&style=for-the-badge&color=1F4E5F&label=Profile+Views" />
 
-## About Me
+</div>
 
-Full-Stack Developer with a passion for building scalable web applications and creating elegant user experiences. With expertise spanning both frontend and backend development, I specialize in turning complex problems into simple, intuitive solutions.
+<br/>
 
-Currently working at **Aurion Tech Global**, I focus on architecting enterprise-grade applications while mentoring junior developers. My background combines technical proficiency with creative design skills, enabling me to bridge the gap between functionality and aesthetics.
+## 👋 About Me
 
-### Professional Experience
+I'm a **Full-Stack Web Developer** based in Lahore, Pakistan, with a BS in Computer Science from the University of the Punjab, Gujranwala. I build backend modules, REST APIs, and database-driven features — and I've shipped code to **live production platforms** as part of professional teams.
 
-**Full-Stack Developer & Designer** | Aurion Tech Global *(Current)*
-- Architect and develop enterprise-grade web applications using Laravel, React.js, and MySQL
-- Design and implement RESTful APIs with a focus on performance and scalability
-- Lead UI/UX design initiatives, creating intuitive interfaces that enhance user experience
-- Mentor junior developers and contribute to technical documentation and best practices
+- 🔧 Currently working with **Laravel, PHP, Python/Django, React.js, and MySQL/PostgreSQL**
+- 🌱 Actively expanding into **TypeScript, Node.js, and modern full-stack workflows**
+- 💼 Open to **junior/full-stack developer roles and internships**
+- ⚡ Strong fundamentals in **clean code, Git workflows, and API design**
 
-**Junior Developer** | Expert Soft Solution *(Previous)*
-- Developed interactive React.js components and Django REST APIs
-- Managed MongoDB databases and implemented data optimization strategies
-- Collaborated in Agile environments, consistently delivering projects on schedule
+<br/>
 
----
-
-## Technical Skills
-
-**Languages**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-
-**Design Tools**  
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-
----
-
-## Core Competencies
-
-- **Full-Stack Development**: End-to-end application development with modern frameworks and best practices
-- **API Design & Development**: RESTful API architecture with emphasis on security and performance
-- **Database Management**: Relational and NoSQL database design, optimization, and scaling
-- **UI/UX Design**: User-centered design principles with focus on accessibility and usability
-- **Code Quality**: Clean code practices, SOLID principles, and comprehensive documentation
-- **Team Collaboration**: Agile methodologies, code reviews, and knowledge sharing
-
----
-
-## Current Learning Focus
-
-I believe in continuous improvement and staying current with industry trends. My current areas of focus include:
-
-- Advanced software architecture patterns and microservices design
-- Cloud technologies (AWS/Azure) and containerization with Docker & Kubernetes
-- API security best practices including OAuth 2.0 and JWT implementation
-- Performance optimization and caching strategies
-- Test-driven development and automated testing frameworks
-
-## Professional Approach
-
-Committed to delivering high-quality solutions that balance technical excellence with business objectives. My development philosophy centers on:
-
-- Writing maintainable, well-documented code that scales
-- Prioritizing user experience and accessibility in every design decision
-- Collaborating effectively with cross-functional teams
-- Staying current with emerging technologies and industry best practices
-
----
-
-## Let's Connect
-
-Always interested in discussing new opportunities, collaborations, or innovative projects. Feel free to reach out:
-
-- **LinkedIn**: [Hassan Abdullah](https://www.linkedin.com/in/hassan-abdullah-8177573a9/)
-- **Email**: hassannabdullaho@gmail.com
-- **GitHub**: [@abdullah3566](https://github.com/abdullah3566)
-
-### Open to Opportunities
-
-- Full-Stack Development Projects
-- Frontend Development (React.js, Modern UI)
-- Backend Development (Laravel, Django)
-- UI/UX Design & Consultation
-- Technical Mentorship
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Made with professionalism and attention to detail**
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,python,js,ts,cpp" />
 
-*Last updated: January 2026*
+**Frameworks & Libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel,django,react,nodejs,tailwind,bootstrap,dotnet" />
 
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+**Tools & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,ps,ai" />
+
+</div>
+
+<br/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td><b>Laravel / PHP Developer</b><br/>Aurion Tech Global</td>
+<td>Jun 2025 – Apr 2026</td>
+<td>Backend modules &amp; REST-style APIs (Laravel, PHP, MySQL) for a live production platform; query optimization and bug fixes.</td>
+</tr>
+<tr>
+<td><b>Junior Developer</b><br/>Expert Soft Solutions</td>
+<td>Feb 2025 – Jun 2025</td>
+<td>Built and optimized web features using Python, Django, and React.js; cross-stack integration work.</td>
+</tr>
+<tr>
+<td><b>IT Services Lead</b><br/>BEMCON</td>
+<td>Nov 2023 – Jan 2025</td>
+<td>Managed IT services, technical support, and infrastructure operations.</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [🔗 IPBEX Platform](https://ipbex.org/)
+**Laravel · PHP · MySQL**
+Backend modules and APIs for a live web platform — built with a focus on performance, security, and scalable architecture.
+
+</td>
+<td width="50%">
+
+### [🔗 Ghana Land Search](https://www.ghanalandsearch.com/)
+**Laravel · PHP · MySQL · TypeScript**
+Backend functionality and database-driven features for a real estate land search platform, with optimized queries and API integration.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [📱 AI Body Measurement App](https://github.com/abdullah3566/AI_Body_Measurement_App)
+**Dart · Flutter**
+Mobile app for estimating body measurements using AI-based analysis.
+
+</td>
+<td width="50%">
+
+### [📚 IELTS Preparation Platform](https://github.com/abdullah3566/IELTS_PLATEFORM)
+**HTML · CSS · JavaScript**
+Web platform with structured practice modules for IELTS preparation.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdullah3566&show_icons=true&theme=transparent&hide_border=true&title_color=1F4E5F&icon_color=1F4E5F&text_color=333333" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah3566&layout=compact&theme=transparent&hide_border=true&title_color=1F4E5F&text_color=333333" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah3566&theme=transparent&hide_border=true&ring=1F4E5F&fire=1F4E5F&currStreakLabel=1F4E5F" width="60%"/>
+
+</div>
+
+<br/>
+
+## 🎓 Education & Certifications
+
+- **BS Computer Science** — University of the Punjab, Gujranwala (2026)
+- **C++ for C Programmers** — University of California, Santa Cruz (Coursera)
+- **Leadership Skills** — IIM Ahmedabad (Coursera)
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A8DBF,100:1F4E5F&height=100&section=footer"/>
 </div>
